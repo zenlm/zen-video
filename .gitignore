@@ -1,2 +1,9 @@
 __pycache__
 /ckpts/**/
+
+
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+GROK.md
+QWEN.md
