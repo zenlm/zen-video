@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-video" width="880"></p>
+
 # Zen Video
 
 Text-to-video generation.
